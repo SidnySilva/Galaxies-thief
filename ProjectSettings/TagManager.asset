@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SuperBullet
+  - asteroidG
+  - BuffF
+  - bullet
+  - cristal
+  - asteroidP
+  - ShieldCristal
+  - BuffS
+  - Ovo
+  - Shield
+  - Enemy
+  - Part1
+  - Part5
+  - Part4
+  - Part2
+  - Part3
+  - Meteoro
+  - BuffT
+  - ShieldP
+  - Bullet
+  - BuffSpeed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
